@@ -1,4 +1,7 @@
 # atmega4809-stuff
+
+__*** A more udpated fork of this repo is available here: https://github.com/benjohnemmett/mcu-device-util/ ***__
+
 Common code libraries for ATmega4809 built in MPLAB X IDE.
 
 # Libraries
